@@ -74,12 +74,12 @@ Se ainda não tiver o repositório, você pode cloná-lo usando o seguinte coman
 git clone https://github.com/mendonca.fernandes@academico.ifg.edu.br/TransportRentalSystem.git
 
 
-Compilar o Código:
+### Compilar o Código:
 Navegue até a pasta onde o código está localizado e compile todas as classes usando o comando:
 javac $(find . -name "*.java")
 
 
-Executar o Programa:
+### Executar o Programa:
 Para rodar o programa, execute o comando:
 java com.example.transport.Main
 
