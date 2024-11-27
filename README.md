@@ -84,17 +84,6 @@ Para rodar o programa, execute o comando:
 java com.example.transport.Main
 
 
-Contribuições
-Sinta-se à vontade para contribuir com melhorias ou correções. Para isso, basta seguir os seguintes passos:
-Fork o repositório.
-Crie uma branch para sua alteração (git checkout -b nova-feature).
-Faça commit das suas alterações (git commit -am 'Adicionando nova feature').
-Envie para o repositório remoto (git push origin nova-feature).
-Abra um pull request.
-
-
-Licença
-Este projeto é de código aberto e está disponível sob a licença MIT.
 
 
 
