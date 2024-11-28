@@ -71,7 +71,7 @@ Exemplo de saída:
 Se ainda não tiver o repositório, você pode cloná-lo usando o seguinte comando:
 
 ```bash
-git clone https://github.com/mendonca.fernandes@academico.ifg.edu.br/TransportRentalSystem.git
+git clone https://github.com/MariaEduarda0603/TransportRentalSystem.git
 
 
 ### Compilar o Código:
